@@ -1,4 +1,7 @@
 # APIM Collect Payment Function
 
-Install `node`
-Run `npm start` to run the collect payment logic
+## Instruction
+
+- Install `node`
+- Run `npm install` to install dependencies
+- Run `npm start` to run the collect payment logic
